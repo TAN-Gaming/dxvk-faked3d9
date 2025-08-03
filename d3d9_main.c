@@ -1,8 +1,6 @@
 /*
- * dxvk-faked3d9
- *
- * A dummy d3d9.dll to fix launching problems for some d3d10 and d3d11 games
- * running with DXVK.
+ * dxvk-faked3d9 - A dummy d3d9.dll to fix launching problems for some d3d10
+ * and d3d11 games running with DXVK.
  *
  * Written in 2022 by Thamatip Chitpong <tangaming123456@outlook.com>
  *
@@ -53,4 +51,5 @@ void WINAPI D3DPERF_SetMarker(D3DCOLOR col, LPCWSTR wszName) { }
 void WINAPI D3DPERF_SetOptions(DWORD dwOptions) { }
 
 void WINAPI D3DPERF_SetRegion(D3DCOLOR col, LPCWSTR wszName) { }
+
 
