@@ -1,5 +1,5 @@
 /*
- * Author: Thamatip Chitpong, 2022
+ * Copyright (C) 2022 Thamatip Chitpong <tangaming123456@outlook.com>
  *
  * SPDX-License-Identifier: 0BSD
  * License-Filename: LICENSE.txt
