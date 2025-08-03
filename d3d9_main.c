@@ -51,5 +51,3 @@ void WINAPI D3DPERF_SetMarker(D3DCOLOR col, LPCWSTR wszName) { }
 void WINAPI D3DPERF_SetOptions(DWORD dwOptions) { }
 
 void WINAPI D3DPERF_SetRegion(D3DCOLOR col, LPCWSTR wszName) { }
-
-
